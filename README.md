@@ -39,8 +39,8 @@ Finally, one important feature of the project is that when the client is logged 
 
 ### Links
 
-- [Live site URL]
-- [Solution URL]
+- [Live site URL](https://bankist-app-karlakz.netlify.app/)
+- [Solution URL](https://github.com/karlakz/bankist-app)
 
 ## My Process
 
