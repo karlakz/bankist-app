@@ -45,8 +45,8 @@ const account2 = {
     "2020-06-25T18:49:59.371Z",
     "2020-07-26T12:01:20.894Z",
   ],
-  currency: "USD",
-  locale: "en-US",
+  currency: "KZT",
+  locale: "kk-KZ",
 };
 
 const accounts = [account1, account2];
